@@ -1,4 +1,4 @@
-package net.wessendorf.knative.vertx;
+package com.example.helloworld;
 
 import io.reactivex.Flowable;
 import io.vertx.reactivex.core.AbstractVerticle;
