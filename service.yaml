@@ -8,7 +8,7 @@ spec:
       revisionTemplate:
         spec:
           container:
-            image: docker.io/matzew/helloworld-vertx
+            image: docker.io/{username}/helloworld-vertx
             env:
             - name: TARGET
               value: "Eclipse Vert.x Sample v1"
